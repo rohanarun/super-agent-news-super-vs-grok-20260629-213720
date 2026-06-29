@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "BigGo Finance",
+      "title": "Musk's AI Blitz: Grok 4.5 Matches Claude Opus Performance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3OXcwZkh1anlib0dTTVdtOWhpVlgxNmNLcmVWbEFNQzg0ZDkyTGc4NzNvSmVYTW1FS0JjVXZ2X2N2VUktSjhsOEVrYTVXbXJFZ1J5MkJLa2FpYlRaRDNqZm12SmpwUmdVSjBhWC1vQ2gyV3Zfb3c?oc=5"
+    },
+    {
+      "source": "Tech Times",
+      "title": "Grok 4.5 Enters Private Beta at SpaceX and Tesla",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1lEbWRmc2dvY0dBVWpfeEIyUG9QbVdISkMxY25ObkxQYld1cTZFel9uM1ZHZEhsSUhfMU16X09qWjM0TDFHdE41aUF0TTV0R0ZfX0E0cnRFUWg5bS1PZV9yaUNxVnhrU1VZam1wNmZScG05SE1fWGk3YU5DSGM4X0tPeHNlc2tNcHlMbFF0djFIY19oZjk1WWZhS2lsMUkwTnZReGthUTBRWlEyM3FianladTlzRTJqWVBScGhTQVlaTGpzWU1Yb2RDVGZJWFM2NWxN?oc=5"
+    },
+    {
+      "source": "Crypto Briefing",
+      "title": "xAI\u2019s Grok voice APIs land on Vercel AI Gateway",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jSU9MMlVMdGlMUlF4UjdLQndUMlF4T1hPa3hHMWlPVUpXaExGNmlEZkJsTkJ3ZGxKQ2FMWjRXSGFPVnJRVGM2d2pIb0syYjc2X3cxd3VQQ0xrV2pKWjJaMXplOGxpZkgwb1BzLW5qZklNaEE?oc=5"
+    },
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5"
+    },
+    {
+      "source": "ALM Corp",
+      "title": "Gemini Can Now Operate Your Computer and Attackers Are Already Adapting",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVlMUHR5YkM3QkpZSWcxZ2Qyb1BiZ19rYVZudHVlQjFzQmxJZEkwb1I4NTZsUjBGRmoxdmZ5OVFlOV81MUw2bHVJa1U4bURpTVd6LXd6RlQ5QklhWkxxYlcwSm83UDU1Rkl0SkxudEg3Wm1WNmQ4OEtBT3lDMEFRQjc3Smc4UlpxMG44bWZiUmRXdw?oc=5"
+    },
+    {
+      "source": "free.ai",
+      "title": "Free AI CSS Code Generator \u2014 FAQ",
+      "url": "https://free.ai/code/css/"
+    }
+  ],
+  "design_plan": "rng=1337; audience=competitor_comparison; AIDA=pass; hero_lines=2; grid_density=grid-auto-flow:dense verified; button_contrast=black/white pills; cache_phrase_present=true",
+  "generated_at": "2026-06-29T21:37:27.100223+00:00",
+  "headline": "Super vs Grok \u2014 personal AI agents compared",
+  "site_brief": {
+    "audience": "people comparing Super with Grok",
+    "competitor": "Grok",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Grok. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Grok AI agent",
+      "Grok AI assistant",
+      "Grok automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-grok",
+    "title": "Super vs Grok"
+  },
+  "summary": "A fair, editorial comparison of Super and Grok for people evaluating personal AI agents. Grok is advancing quickly as a powerful assistant and agent platform. Super is purpose\u2011built for real computer\u2011use workflows, with a reusable computer\u2011use cache that makes repeated work more efficient over time."
+}
